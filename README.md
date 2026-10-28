@@ -6,8 +6,19 @@
 
 ## 🖼️ Capturas y Demostración
 
-![Captura de pantalla de CaveMon](Images/screenshot.png) 
-*(Nota: Puedes cambiar 'Images/screenshot.png' por la ruta de tu captura o logo si tienes una)*
+<p align="center">
+  <img src="Images/Portada.png" width="100%" alt="Portada Principal">
+</p>
+
+<p align="center">
+  <img src="Images/Portada2.png" width="48%" alt="Captura 2">
+  <img src="Images/Portada3.png" width="48%" alt="Captura 3">
+</p>
+
+<p align="center">
+  <img src="Images/Portada4.png" width="48%" alt="Captura 4">
+  <img src="Images/Portada5.png" width="48%" alt="Captura 5">
+</p>
 
 ---
 
