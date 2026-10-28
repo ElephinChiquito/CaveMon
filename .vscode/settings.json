@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "CaveMon/libs/stdlib.jar",
+        "CaveMon/libs/tads.jar"
+    ],
+
+    "java.project.sourcePaths": [
+        "CaveMon"
+    ]
+}
